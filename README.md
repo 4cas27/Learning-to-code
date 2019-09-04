@@ -11,7 +11,7 @@
     <br>
     This is me learning how to make a link.
     <br>
-    <a href="http://example,com">
+    <a href="http://example,com"> This is a text link </a>
       
     
 
